@@ -11,6 +11,7 @@
 		5291D2F62BF5B6C400841FA5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5291D2F52BF5B6C400841FA5 /* ContentView.swift */; };
 		5291D2F82BF5B6C400841FA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5291D2F72BF5B6C400841FA5 /* Assets.xcassets */; };
 		5291D2FB2BF5B6C400841FA5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5291D2FA2BF5B6C400841FA5 /* Preview Assets.xcassets */; };
+		5291D3022BF5B81900841FA5 /* CardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5291D3012BF5B81900841FA5 /* CardDeck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5291D2F52BF5B6C400841FA5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5291D2F72BF5B6C400841FA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5291D2FA2BF5B6C400841FA5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5291D3012BF5B81900841FA5 /* CardDeck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardDeck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5291D2F32BF5B6C400841FA5 /* PlayingCardWorkoutSwiftUIApp.swift */,
 				5291D2F52BF5B6C400841FA5 /* ContentView.swift */,
+				5291D3012BF5B81900841FA5 /* CardDeck.swift */,
 				5291D2F72BF5B6C400841FA5 /* Assets.xcassets */,
 				5291D2F92BF5B6C400841FA5 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5291D3022BF5B81900841FA5 /* CardDeck.swift in Sources */,
 				5291D2F62BF5B6C400841FA5 /* ContentView.swift in Sources */,
 				5291D2F42BF5B6C400841FA5 /* PlayingCardWorkoutSwiftUIApp.swift in Sources */,
 			);
